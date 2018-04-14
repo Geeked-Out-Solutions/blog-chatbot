@@ -1,0 +1,11 @@
+{
+  "name": "mattermost-chatbot",
+  "version": "1.0",
+  "dependencies": {
+    "request": "^2.85.0",
+    "apiai": "^4.0.3"
+  },
+  "devDependencies": {
+    "api-ai-javascript": "^2.0.0-beta.21"
+  }
+}
